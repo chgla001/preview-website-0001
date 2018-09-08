@@ -5,9 +5,8 @@
 .header__image {
     height: 300px;
     width: 100%;
-    background-size: 50% 50%;
-    background: url('../assets/pexels-photo-1038940.jpeg') no-repeat;
     border-bottom: #e6e326 solid 5px;
+    object-fit: cover;
 }
 
 .header__nav {
